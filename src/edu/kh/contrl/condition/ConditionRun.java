@@ -10,10 +10,21 @@ public class ConditionRun {
 		//condition.ex2();
 		//condition.ex3();
 		//condition.ex4();
-		condition.ex5();
-		condition.ex6();
-		condition.ex7();
-		condition.ex8();
+		//condition.ex5();
+		//condition.ex6();
+		//condition.ex7();
+		//condition.ex8();
+		
+		SwitchExample switchEx = new SwitchExample();
+		
+		//switchEx.ex1();
+		//switchEx.ex2();
+		//switchEx.ex3();
+		// switchEx.ex4();
+		//switchEx.ex5();
+		//switchEx.ex6();
+		//switchEx.ex7();
+		
 		
 	}
 
