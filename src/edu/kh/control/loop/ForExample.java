@@ -198,11 +198,38 @@ public class ForExample {
 	}
 		
 	public void ex14() {
+		// 구구단 출력
+		// 2~9 사이 수를 하나 입력받아
+		// 해당 단을 출력
+		// 단, 입력받은 수가 2~9 사이 숫자가 아니면 '잘못입력하셨습니다' 출력
 		
+		System.out.print("단 입력 : ");
+		int dan = sc.nextInt();
 		
-		
+		if( (dan <= 1) || (dan >= 9) ) {
+			System.out.println("잘못입력하셨습니다.");
+		}else {
+			for(int i = 1; i <= 9; i++) {
+				System.out.printf("%d X %d = %d\n", dan, i, dan*i);
+			}
+		}
 	}
 	
-	
+	public void ex15() {
+		// 19단 출력기
+		// 2~19단 사이 단을 입력받아서 x 1 ~ x 19까지 출력
+		// 단, 2~19 사이 단이 입력되지 않으면 '잘못 입력 하셨습니다.' 출력
+		
+		System.out.print("단 입력 : ");
+		int dan = sc.nextInt();
+		
+		if((dan <= 1) || (dan >= 20)) {
+			System.out.println("잘못 입력 하셨습니다.");
+		}else {
+			for(int i = 1; i <= 19; i++) {
+				System.out.printf("%d X %d = %d\n", dan, i, dan*i);
+			}
+		}
+	}
 	
 }

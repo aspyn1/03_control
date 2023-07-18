@@ -19,9 +19,16 @@ public class LoopRun {
 		//fe.ex11();
 		//fe.ex12();
 		//fe.ex13();
-		fe.ex14();
+		//fe.ex14();
+		//fe.ex15();
 		
+		ForExampleHomework fe1 = new ForExampleHomework();
 		
+		//fe1.ex1();
+		//fe1.ex2();
+		//fe1.ex3();
+		//fe1.ex4();
+		//fe1.ex5();
 
 	}
 
