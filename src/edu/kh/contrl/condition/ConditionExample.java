@@ -6,8 +6,6 @@ public class ConditionExample {
 	
 	Scanner sc = new Scanner(System.in);
 
-	private static final String Char = null;
-
 	public void ex1() {
 
 		// 단일 if문 : 조건식이 true 일때만 내부 코드를 수행
@@ -285,4 +283,5 @@ public class ConditionExample {
 		
 		System.out.println(result);
 	}
+
 }
