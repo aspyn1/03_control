@@ -21,6 +21,15 @@ public class LoopRun {
 		//fe.ex13();
 		//fe.ex14();
 		//fe.ex15();
+		//fe.ex16();
+		//fe.ex17();
+		//fe.ex18();
+		//fe.ex19();
+		//fe.ex20();
+		//fe.ex21();
+		//fe.ex22();
+		//fe.ex23();
+		fe.ex24();
 		
 		ForExampleHomework fe1 = new ForExampleHomework();
 		
@@ -28,7 +37,22 @@ public class LoopRun {
 		//fe1.ex2();
 		//fe1.ex3();
 		//fe1.ex4();
-		//fe1.ex5();  
+		//fe1.ex5();
+		//fe1.ex6();
+		//fe1.ex7();
+		//fe1.ex8();
+		//fe1.ex9();
+		//fe1.ex10();
+		//fe1.ex11();
+		//fe1.ex12();
+		//fe1.ex13();
+
+		WhileExample we = new WhileExample();
+		
+		//we.ex1();
+		//we.ex2();
+		//we.ex3();
+
 
 	}
 
